@@ -79,5 +79,9 @@ texto-mobile{
         margin-top: 3em;
         padding: 1em;
     }
+
+    .texto-tablet, .texto-mobile{
+        display: none;
+    }
     
 }
