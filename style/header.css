@@ -27,7 +27,7 @@
     justify-content: center;
 }
 
-texto-mobile{
+.texto-mobile{
     display: block;
     font-size: 30px;
     margin-top: 3em;
@@ -38,7 +38,7 @@ texto-mobile{
     display: none;
 }
 
-@media screen and(min-width:820px){
+@media screen and (min-width:820px){
     .container__titulo{
         font-size: 30px;
         display: inline-block;
