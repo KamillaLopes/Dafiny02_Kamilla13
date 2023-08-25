@@ -1,14 +1,14 @@
 @import url("style/header.css");
 
 :root{
-    --amarelo: #f574e4f7; 
-    --fundo-azul: #da086ae4;
+    --rosa-claro: #f574e4f7; 
+    --rosa-pink: #da086ae4;
     --lilas: #c514c5;
     --fonte-projeto: "Dosis";
 
 }
 
 body{
-    background-color: var(--amarelo);
+    background-color: var(--rosa-claro);
     margin: 0; font-family: var(--fonte-projeto);
 }
